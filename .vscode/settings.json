@@ -1,0 +1,5 @@
+{
+    "ipynb.experimental.serialization": true,
+    "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
+    "files.autoSave": "onWindowChange"
+}
